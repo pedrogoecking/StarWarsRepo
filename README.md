@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./tiefighter.png](TIE_Fighter)
+![TIE Fighter](tiefighter.png)
 
 Repositório de exemplo
